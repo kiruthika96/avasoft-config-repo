@@ -1,3 +1,5 @@
+user:
+  firstName: kiruthika
 management:
   endpoint:
     health:
